@@ -1,3 +1,8 @@
-players[100821319] = '<a href="/22/player/22633/lionel-messi" target="_blank">Lionel Messi 98 - TOTY</a>';
-players[100830791] = '<a href="/22/player/25464/manuel-neuer" target="_blank">Manuel Neuer 95 - TOTS</a>';
-players[100871714] = '<a href="/22/player/25305/yannick-carrasco" target="_blank">Yannick Carrasco 92 - TOTS</a>';
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "alex"
+    }
+  ]
+}
