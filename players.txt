@@ -119,6 +119,6 @@
             "id": 84132726,
             "name": "Maxence Caqueret 90 - TOTS",
             "link": "/22/player/25309/maxence-caqueret"
-        },
+        }
     ]
 }
