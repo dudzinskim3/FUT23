@@ -1,10 +1,8 @@
 {
   "players": [
-
 	{ "id": 100821319, "name": "Lionel Messi 98 - TOTY", "link": "/22/player/22633/lionel-messi" },
 	{ "id": 100830791, "name": "Manuel Neuer 95 - TOTS", "link": "/22/player/25464/manuel-neuer" },
 	{ "id": 100840684, "name": "Dimitri Payet 93 - TOTS", "link": "/22/player/25610/dimitri-payet" },
-	{ "id": 100851841, "name": "Robert Lewandowski 98 - TOTY", "link": "/22/player/22632/robert-lewandowski" },
-
+	{ "id": 100851841, "name": "Robert Lewandowski 98 - TOTY", "link": "/22/player/22632/robert-lewandowski" }
   ]
 }
