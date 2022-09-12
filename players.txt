@@ -1,1 +1,2 @@
 players[100821319] = '<a href="/22/player/22633/lionel-messi" target="_blank">Lionel Messi 98 - TOTY</a>';
+players[100830791] = '<a href="/22/player/25464/manuel-neuer" target="_blank">Manuel Neuer 95 - TOTS</a>';
