@@ -293,12 +293,11 @@
 	{"id":215223,"name":"Walter Benítez 80 - Normal","link":"/23/player/26674/walter-benitez"},
 	{"id":225863,"name":"Olivier Boscagli 77 - Normal","link":"/23/player/26686/olivier-boscagli"},
 	{"id":224196,"name":"Ramy Bensebaini 78 - Normal","link":"/23/player/26689/ramy-bensebaini"},
-	{"id":238050,"name":"Chidera Ejuke 76 - Normal","link":"/23/player/26711/chidera-ejuke"},
 	{"id":212269,"name":"Riechedly Bazoer 77 - Normal","link":"/23/player/26713/riechedly-bazoer"},
 	{"id":242530,"name":"Noah Okafor 75 - Normal","link":"/23/player/26719/noah-okafor"},
 	{"id":209989,"name":"Thomas Partey 84 - ","link":"/23/player/26766/thomas-partey"},
 	{"id":180930,"name":"Edin Džeko 84 - ","link":"/23/player/26775/edin-dzeko"},
 	{"id":225193,"name":"Mikel Merino Zazón 83 - ","link":"/23/player/26778/mikel-merino-zazon"},
-	{"id":214997,"name":"Ángel Correa 83 - ","link":"/23/player/26779/angel-correa"},
+	{"id":214997,"name":"Ángel Correa 83 - ","link":"/23/player/26779/angel-correa"}
   ]
 }
