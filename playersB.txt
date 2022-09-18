@@ -1,0 +1,10 @@
+{
+	"players": [
+	{"id":202789,"name":"Alexander Schwolow 75 - Normal","link":"/23/player/26700/alexander-schwolow"},
+	{"id":229155,"name":"Thomas Ouwejan 75 - Normal","link":"/23/player/26701/thomas-ouwejan"},
+	{"id":215604,"name":"Cédric Brunner 75 - Normal","link":"/23/player/26702/cedric-brunner"},
+	{"id":247028,"name":"Alex Král 75 - Normal","link":"/23/player/26704/alex-kral"},
+	{"id":210719,"name":"Marc-Oliver Kempf 75 - Normal","link":"/23/player/26706/marc-oliver-kempf"},
+	{"id":201262,"name":"Vladimír Darida 75 - Normal","link":"/23/player/26708/vladimir-darida"}
+	]
+}
