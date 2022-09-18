@@ -2,7 +2,6 @@
   "players": [
 	{"id":224232,"name":"Nicolò Barella 86 - Rare","link":"/23/player/26604/nicolo-barella"},
 	{"id":216352,"name":"Marcelo Brozovic 86 - Rare","link":"/23/player/26607/marcelo-brozovic"},
-	//aaaa
 	{"id":232363,"name":"Milan Škriniar 86 - Rare","link":"/23/player/26608/milan-skriniar"},
 	{"id":211110,"name":"Paulo Dybala 86 - Normal","link":"/23/player/26717/paulo-dybala"},
 	{"id":212198,"name":"Bruno Fernandes 86 - Normal","link":"/23/player/26728/bruno-fernandes"},
