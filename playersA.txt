@@ -100,5 +100,5 @@
 	{"id":254796,"name":"NONI MADUEKE - 77","link":"/23/player/27312/noni-madueke"},
 	{"id":198141,"name":"BARTRA - 81","link":"/23/player/26856/bartra"},
 	{"id":244263,"name":"AMIR RRAHMANI - 80","link":"/23/player/26978/amir-rrahmani"}
-	]
+  ]
 }
