@@ -1,6 +1,7 @@
 {
 	"players": [
 	{"id":252802,"name":"WILFRIED SINGO - 76","link":"/23/player/26337/wilfried-singo"},
+	{"id":194333,"name":"RAFAł GIKIEWICZ - 77","link":"/23/player/27407/rafal-gikiewicz"},
 	{"id":239580,"name":"BREMER - 83","link":"/23/player/26361/bremer"},
 	{"id":223697,"name":"ROBIN GOSENS - 82","link":"/23/player/26809/robin-gosens"},
 	{"id":223671,"name":"STEFAN POSCH - 75","link":"/23/player/26620/stefan-posch"},
