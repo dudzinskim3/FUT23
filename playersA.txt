@@ -1,5 +1,11 @@
 {
 	"players": [
+	{"id":252802,"name":"WILFRIED SINGO - 76","link":"/23/player/26337/wilfried-singo"},
+	{"id":239580,"name":"BREMER - 83","link":"/23/player/26361/bremer"},
+	{"id":223697,"name":"ROBIN GOSENS - 82","link":"/23/player/26809/robin-gosens"},
+	{"id":223671,"name":"STEFAN POSCH - 75","link":"/23/player/26620/stefan-posch"},
+	{"id":192366,"name":"NICOLáS OTAMENDI - 81","link":"/23/player/26895/nicol%C3%A1s-otamendi"},
+	{"id":233096,"name":"DENZEL DUMFRIES - 82","link":"/23/player/26825/denzel-dumfries"},
 	{"id":156616,"name":"FRANCK RIBéRY - 77","link":"/23/player/26522/franck-ribery"},
 	{"id":182002,"name":"SIDNEI - 78","link":"/23/player/27148/sidnei-rechel-da-silva-junior"},
 	{"id":182212,"name":"ANTHONY MODESTE - 79","link":"/23/player/27099/anthony-modeste"},
@@ -92,6 +98,7 @@
 	{"id":251182,"name":"IAGO AMARAL BORDUCHI - 77","link":"/23/player/27341/iago-amaral-borduchi"},
 	{"id":251573,"name":"RENAN LODI - 80","link":"/23/player/26932/renan-lodi"},
 	{"id":254796,"name":"NONI MADUEKE - 77","link":"/23/player/27312/noni-madueke"}
-{"id":198141,"name":"BARTRA - 81","link":"/23/player/26856/bartra"},
+	{"id":198141,"name":"BARTRA - 81","link":"/23/player/26856/bartra"},
+	{"id":244263,"name":"AMIR RRAHMANI - 80","link":"/23/player/26978/amir-rrahmani"}
 	]
 }
