@@ -98,7 +98,7 @@
 	{"id":251182,"name":"IAGO - 77","link":"/23/player/27341/iago"},
 	{"id":251182,"name":"IAGO AMARAL BORDUCHI - 77","link":"/23/player/27341/iago-amaral-borduchi"},
 	{"id":251573,"name":"RENAN LODI - 80","link":"/23/player/26932/renan-lodi"},
-	{"id":254796,"name":"NONI MADUEKE - 77","link":"/23/player/27312/noni-madueke"}
+	{"id":254796,"name":"NONI MADUEKE - 77","link":"/23/player/27312/noni-madueke"},
 	{"id":198141,"name":"BARTRA - 81","link":"/23/player/26856/bartra"},
 	{"id":244263,"name":"AMIR RRAHMANI - 80","link":"/23/player/26978/amir-rrahmani"}
 	]
