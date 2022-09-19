@@ -41,7 +41,7 @@
 	{"id":212523,"name":"ANDERSON TALISCA - 82","link":"/23/player/26807/anderson-talisca"},
 	{"id":213242,"name":"ADRIEN TAMEZE - 77","link":"/23/player/27263/adrien-tameze"},
 	{"id":214026,"name":"JOHAN MOJICA - 77","link":"/23/player/27302/johan-mojica"},
-	{"id":214047,"name":"MATEUS URIBE - 81","link":"/23/player/26850/mateus-uribe"}
+	{"id":214047,"name":"MATEUS URIBE - 81","link":"/23/player/26850/mateus-uribe"},
 	{"id":214766,"name":"CARLOS IZQUIERDOZ - 77","link":"/23/player/27386/carlos-izquierdoz"},
 	{"id":215061,"name":"DARíO BENEDETTO - 77","link":"/23/player/27322/dario-benedetto"},
 	{"id":215071,"name":"MILTON CASCO - 77","link":"/23/player/27266/milton-casco"},
