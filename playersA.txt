@@ -1,6 +1,17 @@
 {
   "players": [
 	{"id":252802,"name":"WILFRIED SINGO - 76","link":"/23/player/26337/wilfried-singo"},
+	{"id":201995,"name":"FELIPE ANDERSON - 79","link":"/23/player/27005/felipe-anderson"},
+	{"id":236786,"name":"MARTIN TERRIER - 81","link":"/23/player/26585/martin-terrier"},
+	{"id":233731,"name":"ALEXANDER ISAK - 80","link":"/23/player/26965/alexander-isak"},
+	{"id":193283,"name":"THOMAS DELANEY - 81","link":"/23/player/26860/thomas-delaney"},
+	{"id":226226,"name":"GIOVANI LO CELSO - 81","link":"/23/player/26861/giovani-lo-celso"},
+	{"id":230658,"name":"ARTHUR - 80","link":"/23/player/26926/arthur"},
+	{"id":220793,"name":"DAVINSON SaNCHEZ - 79","link":"/23/player/27053/davinson-s%C3%A1nchez"},
+	{"id":231340,"name":"GONZALO MONTIEL - 79","link":"/23/player/27048/gonzalo-montiel"},
+	{"id":232580,"name":"GABRIEL - 81","link":"/23/player/26905/gabriel"},
+	{"id":245279,"name":"REGUILoN - 80","link":"/23/player/26967/reguil%C3%B3n"},
+	{"id":209981,"name":"YASSINE BOUNOU - 84","link":"/23/player/26387/yassine-bounou"},
 	{"id":173373,"name":"SERGIO ROMERO - 78","link":"/23/player/27198/sergio-romero"},
 	{"id":239580,"name":"BREMER - 83","link":"/23/player/26361/bremer"},
 	{"id":223697,"name":"ROBIN GOSENS - 82","link":"/23/player/26809/robin-gosens"},
