@@ -160,7 +160,6 @@
 	{"id":247182,"name":"TUTA - 77","link":"/23/player/27283/tuta"},
 	{"id":247257,"name":"IBAnEZ - 79","link":"/23/player/27106/ibanez"},
 	{"id":251182,"name":"IAGO - 77","link":"/23/player/27341/iago"},
-	{"id":251182,"name":"IAGO AMARAL BORDUCHI - 77","link":"/23/player/27341/iago-amaral-borduchi"},
 	{"id":251573,"name":"RENAN LODI - 80","link":"/23/player/26932/renan-lodi"},
 	{"id":251809,"name":"SVEN BOTMAN - 80","link":"/23/player/26995/sven-botman"},
 	{"id":251892,"name":"BETO - 79","link":"/23/player/27078/beto"},
