@@ -150,7 +150,7 @@
 	{"id":243559,"name":"DE FRUTOS - 77","link":"/23/player/27362/de-frutos"},
 	{"id":243576,"name":"PEDRO PORRO - 81","link":"/23/player/26874/pedro-porro"},
 	{"id":243854,"name":"MOHAMED SIMAKAN - 78","link":"/23/player/26463/mohamed-simakan"},
-	{"id":244263,"name":"AMIR RRAHMANI - 80","link":"/23/player/26978/amir-rrahmani"}
+	{"id":244263,"name":"AMIR RRAHMANI - 80","link":"/23/player/26978/amir-rrahmani"},
 	{"id":245158,"name":"LUIS JAVIER SUáREZ - 76","link":"/23/player/26663/luis-javier-suarez"},
 	{"id":245279,"name":"REGUILoN - 80","link":"/23/player/26967/reguil%C3%B3n"},
 	{"id":246186,"name":"ARTHUR CABRAL - 77","link":"/23/player/26744/arthur-cabral"},
