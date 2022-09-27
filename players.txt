@@ -264,6 +264,26 @@
 	{"id":262271,"name":"Diego Milito 88 - Hero","link":"/23/player/37536/diego-milito"},
 	{"id":524,"name":"Lars Ricken 85 - Hero","link":"/23/player/27794/lars-ricken"},
 	{"id":155897,"name":"Clint Dempsey 85 - Hero","link":"/23/player/27883/clint-dempsey"},
-	{"id":6975,"name":"Freddie Ljungberg 86 - Hero","link":"/23/player/27799/freddie-ljungberg"}
+	{"id":6975,"name":"Freddie Ljungberg 86 - Hero","link":"/23/player/27799/freddie-ljungberg"},
+	{"id":50575363,"name":"William Saliba 83 - IF","link":"/23/player/27786/william-saliba"},
+	{"id":202477,"name":"Gerard Deulofeu Lázaro 83 - IF","link":"/23/player/37960/gerard-deulofeu-lazaro"},
+	{"id":242516,"name":"Cody Gakpo 85 - IF","link":"/23/player/38205/cody-gakpo"},
+	{"id":50551437,"name":"Hamari Traoré 85 - IF","link":"/23/player/27787/hamari-traore"},
+	{"id":50561039,"name":"Palhinha Gonçalves 84 - IF","link":"/23/player/27781/palhinha-goncalves"},
+	{"id":50524035,"name":"Ciro Immobile 87 - IF","link":"/23/player/27779/ciro-immobile"},
+	{"id":232730,"name":"Daichi Kamada 83 - IF","link":"/23/player/27791/daichi-kamada"},
+	{"id":50552990,"name":"Maffeo Becerra 82 - IF","link":"/23/player/27785/maffeo-becerra"},
+	{"id":204614,"name":"Silva Duarte 82 - IF","link":"/23/player/27789/silva-duarte"},
+	{"id":50551170,"name":"Jeremías Ledesma 83 - IF","link":"/23/player/27788/jeremias-ledesma"},
+	{"id":194333,"name":"Rafał Gikiewicz 81 - IF","link":"/23/player/37940/rafal-gikiewicz"},
+	{"id":50541972,"name":"Jonas Hofmann 84 - IF","link":"/23/player/27782/jonas-hofmann"},
+	{"id":231433,"name":"Aitor Cantalapiedra 80 - IF","link":"/23/player/38099/aitor-cantalapiedra"},
+	{"id":50537334,"name":"Téji Savanier 84 - IF","link":"/23/player/27783/teji-savanier"},
+	{"id":241452,"name":"Jack Diamond 75 - IF","link":"/23/player/38395/jack-diamond"},
+	{"id":221969,"name":"Filip Mladenović 77 - IF","link":"/23/player/38036/filip-mladenovic"},
+	{"id":215374,"name":"Scott Hogan 77 - IF","link":"/23/player/38011/scott-hogan"},
+	{"id":244042,"name":"Moussa Djitté 78 - IF","link":"/23/player/38224/moussa-djitte"},
+	{"id":234835,"name":"Menezes Duarte 81 - IF","link":"/23/player/27790/menezes-duarte"},
+	{"id":246350,"name":"Enzo Le Fée 81 - IF","link":"/23/player/38257/enzo-le-fee"}
   ]
 }
