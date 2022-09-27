@@ -249,6 +249,21 @@
 	{"id":243231,"name":"Enock Mwepu 76 - Normal","link":"/23/player/34371/enock-mwepu"},
 	{"id":184190,"name":"Romain Thomas 75 - Normal","link":"/23/player/28248/romain-thomas"},
 	{"id":219732,"name":"Georges-Kévin Nkoudou 75 - Normal","link":"/23/player/30800/georges-kevin-nkoudou"},
-	{"id":251852,"name":"Karim Adeyemi 75 - Normal","link":"/23/player/35721/karim-adeyemi"}
+	{"id":251852,"name":"Karim Adeyemi 75 - Normal","link":"/23/player/35721/karim-adeyemi"},
+	{"id":3622,"name":"Ricardo Carvalho 88 - Hero","link":"/23/player/44175/ricardo-carvalho"},
+	{"id":8385,"name":"Aleksandr Mostovoi 86 - Hero","link":"/23/player/27800/aleksandr-mostovoi"},
+	{"id":168886,"name":"Sami Al-Jaber 86 - Hero","link":"/23/player/27966/sami-al-jaber"},
+	{"id":25924,"name":"Capdevila 86 - Hero","link":"/23/player/44179/capdevila"},
+	{"id":51412,"name":"Tim Cahill 85 - Hero","link":"/23/player/27810/tim-cahill"},
+	{"id":44897,"name":"Jerzy Dudek 86 - Hero","link":"/23/player/27806/jerzy-dudek"},
+	{"id":191694,"name":"Jorge Campos 87 - Hero","link":"/23/player/28596/jorge-campos"},
+	{"id":1845,"name":"Ole Gunnar Solskjær 86 - Hero","link":"/23/player/27796/ole-gunnar-solskjaer"},
+	{"id":5661,"name":"Morientes 89 - Hero","link":"/23/player/27798/morientes"},
+	{"id":261593,"name":"Jürgen Kohler 89 - Hero","link":"/23/player/37438/jurgen-kohler"},
+	{"id":150418,"name":"Mario Gomez 88 - Hero","link":"/23/player/27858/mario-gomez"},
+	{"id":262271,"name":"Diego Milito 88 - Hero","link":"/23/player/37536/diego-milito"},
+	{"id":524,"name":"Lars Ricken 85 - Hero","link":"/23/player/27794/lars-ricken"},
+	{"id":155897,"name":"Clint Dempsey 85 - Hero","link":"/23/player/27883/clint-dempsey"},
+	{"id":6975,"name":"Freddie Ljungberg 86 - Hero","link":"/23/player/27799/freddie-ljungberg"}
   ]
 }
