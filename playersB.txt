@@ -3,6 +3,7 @@
 	{"id":227536,"name":"MOUSSA MAREGA - 77 PR: 550 - 5,000","link":"/23/player/27265/moussa-marega"},
 	{"id":256325,"name":"JOSIP SUTALO - 75 PR: 550 - 4,900","link":"/23/player/26332/josip-%C5%A1utalo"},
 	{"id":204638,"name":"WILLI ORBAN - 82 PR: 300 - 5,000","link":"/23/player/26453/willi-orban"},
+	{"id":223061,"name":"FRANCO CERVI - 78 PR: 550 - 25,000","link":"/23/player/27193/franco-cervi"},
 	{"id":198657,"name":"JONAS SVENSSON - 77 PR: 550 - 5,000","link":"/23/player/27307/jonas-svensson"},
 	{"id":208364,"name":"CLINTON MATA - 79 PR: 600 - 5,000","link":"/23/player/27047/clinton-mata"},
 	{"id":253727,"name":"LUKAS PROVOD - 75 PR: 550 - 4,900","link":"/23/player/36075/lukas-provod"},
@@ -10,7 +11,12 @@
 	{"id":199792,"name":"ANDERS CHRISTIANSEN - 75 PR: 550 - 4,900","link":"/23/player/29042/anders-christiansen"},
 	{"id":242530,"name":"NOAH OKAFOR - 75 PR: 550 - 4,900","link":"/23/player/26719/noah-okafor"},
 	{"id":213654,"name":"GLEN KAMARA - 75 PR: 550 - 4,900","link":"/23/player/30332/glen-kamara"},
+	{"id":210282,"name":"BRUNO DA SILVA PERES - 75 PR: 300 - 5,000","link":"/23/player/29945/bruno-da-silva-peres"},
 	{"id":225733,"name":"CESINHA - 75 PR: 300 - 5,000","link":"/23/player/26535/cesinha"},
+	{"id":194404,"name":"NETO - 81 PR: 600 - 6,000","link":"/23/player/26892/neto"},
+	{"id":236804,"name":"FACUNDO MEDINA - 76 PR: 550 - 4,900","link":"/23/player/33157/facundo-medina"},
+	{"id":209440,"name":"ROMARINHO - 78 PR: 650 - 10,000","link":"/23/player/27180/romarinho"},
+	{"id":158963,"name":"LUCAS BIGLIA - 76 PR: 300 - 5,000","link":"/23/player/27905/lucas-biglia"},
 	{"id":246172,"name":"SAMUEL CHUKWUEZE - 79 PR: 600 - 55,000","link":"/23/player/27076/samuel-chukwueze"}
   ]
 }
