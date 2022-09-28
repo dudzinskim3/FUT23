@@ -266,7 +266,7 @@
 	{"id":6975,"name":"Freddie Ljungberg 86 - Hero","link":"/23/player/27799/freddie-ljungberg"},
 	{"id":50575363,"name":"William Saliba 83 - IF","link":"/23/player/27786/william-saliba"},
 	{"id":202477,"name":"Gerard Deulofeu Lázaro 83 - IF","link":"/23/player/37960/gerard-deulofeu-lazaro"},
-	{"id":242516,"name":"Cody Gakpo 85 - IF","link":"/23/player/38205/cody-gakpo"},
+	{"id":50574164,"name":"Cody Gakpo 85 - IF","link":"/23/player/38205/cody-gakpo"},
 	{"id":50551437,"name":"Hamari Traoré 85 - IF","link":"/23/player/27787/hamari-traore"},
 	{"id":50561039,"name":"Palhinha Gonçalves 84 - IF","link":"/23/player/27781/palhinha-goncalves"},
 	{"id":50524035,"name":"Ciro Immobile 87 - IF","link":"/23/player/27779/ciro-immobile"},
