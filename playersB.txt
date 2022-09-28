@@ -17,6 +17,7 @@
 	{"id":236804,"name":"FACUNDO MEDINA - 76 PR: 550 - 4,900","link":"/23/player/33157/facundo-medina"},
 	{"id":209440,"name":"ROMARINHO - 78 PR: 650 - 10,000","link":"/23/player/27180/romarinho"},
 	{"id":158963,"name":"LUCAS BIGLIA - 76 PR: 300 - 5,000","link":"/23/player/27905/lucas-biglia"},
+	{"id":198141,"name":"BARTRA - 81 PR: 600 - 6,000","link":"/23/player/26856/bartra"},
 	{"id":246172,"name":"SAMUEL CHUKWUEZE - 79 PR: 600 - 55,000","link":"/23/player/27076/samuel-chukwueze"}
   ]
 }
