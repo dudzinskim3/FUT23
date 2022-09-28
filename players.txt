@@ -278,10 +278,6 @@
 	{"id":50541972,"name":"Jonas Hofmann 84 - IF","link":"/23/player/27782/jonas-hofmann"},
 	{"id":231433,"name":"Aitor Cantalapiedra 80 - IF","link":"/23/player/38099/aitor-cantalapiedra"},
 	{"id":50537334,"name":"Téji Savanier 84 - IF","link":"/23/player/27783/teji-savanier"},
-	{"id":241452,"name":"Jack Diamond 75 - IF","link":"/23/player/38395/jack-diamond"},
-	{"id":221969,"name":"Filip Mladenović 77 - IF","link":"/23/player/38036/filip-mladenovic"},
-	{"id":215374,"name":"Scott Hogan 77 - IF","link":"/23/player/38011/scott-hogan"},
-	{"id":244042,"name":"Moussa Djitté 78 - IF","link":"/23/player/38224/moussa-djitte"},
 	{"id":234835,"name":"Menezes Duarte 81 - IF","link":"/23/player/27790/menezes-duarte"},
 	{"id":246350,"name":"Enzo Le Fée 81 - IF","link":"/23/player/38257/enzo-le-fee"}
   ]
