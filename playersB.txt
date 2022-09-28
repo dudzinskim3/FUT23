@@ -11,6 +11,7 @@
 	{"id":199792,"name":"ANDERS CHRISTIANSEN - 75 PR: 550 - 4,900","link":"/23/player/29042/anders-christiansen"},
 	{"id":242530,"name":"NOAH OKAFOR - 75 PR: 550 - 4,900","link":"/23/player/26719/noah-okafor"},
 	{"id":213654,"name":"GLEN KAMARA - 75 PR: 550 - 4,900","link":"/23/player/30332/glen-kamara"},
-	{"id":225733,"name":"CESINHA - 75 PR: 300 - 5,000","link":"/23/player/26535/cesinha"}
+	{"id":225733,"name":"CESINHA - 75 PR: 300 - 5,000","link":"/23/player/26535/cesinha"},
+	{"id":246172,"name":"SAMUEL CHUKWUEZE - 79 PR: 600 - 55,000","link":"/23/player/27076/samuel-chukwueze"}
   ]
 }
