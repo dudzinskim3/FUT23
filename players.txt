@@ -139,7 +139,6 @@
 	{"id":226271,"name":"Fabián 83 - Normal","link":"/23/player/26576/fabian"},
 	{"id":163587,"name":"Kasper Schmeichel 83 - Normal","link":"/23/player/26578/kasper-schmeichel"},
 	{"id":168542,"name":"David Silva 83 - Normal","link":"/23/player/26729/david-silva"},
-	{"id":198706,"name":"Luis Alberto 83 - Normal","link":"/23/player/26731/luis-alberto"},
 	{"id":214997,"name":"Ángel Correa 83 - ","link":"/23/player/26779/angel-correa"},
 	{"id":233419,"name":"Raphinha 83 - ","link":"/23/player/26780/raphinha"},
 	{"id":194765,"name":"Antoine Griezmann 83 - ","link":"/23/player/26781/antoine-griezmann"},
