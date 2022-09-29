@@ -86,11 +86,6 @@
 			"name": "ROMARINHO - 78 PR: 650 - 10,000"
 		},
 		{
-			"id": 158963,
-			"link": "/23/player/27905/lucas-biglia",
-			"name": "LUCAS BIGLIA - 76 PR: 300 - 5,000"
-		},
-		{
 			"id": 198141,
 			"link": "/23/player/26856/bartra",
 			"name": "BARTRA - 81 PR: 600 - 6,000"
